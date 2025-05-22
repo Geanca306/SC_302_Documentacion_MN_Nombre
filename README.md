@@ -1,1 +1,1 @@
-# Repository-Name-SC_302_Documentacion_MN_Nombre
+# SC_302_Documentacion_MN_Nombre
